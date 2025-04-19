@@ -11,14 +11,11 @@ My background is in computer science, and I’m focused on turning raw data into
 ### [Rent Trends EDA](./rent-trends-eda/)
 An in-depth exploratory analysis of post-COVID rent inflation across U.S. cities. This project uses time-series data to explore affordability and regional inequality in the housing market.
 
-### 🧾 [Nonprofit Impact Tracker](./nonprofit-impact-tracker/) (Coming Soon)
+### 🧾 [Nonprofit Impact Tracker](./nonprofit-impact-tracker/) (Work in Progress)
 A SQL and KPI-driven analysis tool that helps nonprofit organizations track program outcomes, donor retention, and cost-per-impact across time.
 
 ### 🌍 [Corporate Greenwashing Detector](./greenwashing-detector/) (Coming Soon)
 This project compares corporate sustainability claims to environmental impact data using basic NLP, classification techniques, and source verification.
-
-### 🧪 [Disinformation Risk Scoring](./disinformation-risk-scoring/) (Coming Soon)
-A machine learning project exploring how to assess the likelihood that a news article or post spreads misinformation using linguistic and metadata-based features.
 
 ### 🧪 [Disinformation Risk Scoring](./disinformation-risk-scoring/) (Coming Soon)
 A machine learning project exploring how to assess the likelihood that a news article or post spreads misinformation using linguistic and metadata-based features.
