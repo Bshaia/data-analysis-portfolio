@@ -20,3 +20,21 @@ donors = pd.DataFrame({
 })
 
 print(donors.head())
+
+# Generate donation records
+num_donations = 1200
+donation_records = []
+
+for _ in range(num_donations):
+    donor= donors.sample(1).iloc[0]
+    amount = round(random.uniform(10, 1000), 2)
+    donation_date = fake.date_between(start_date=donor["join_date"], end_date='today')
+    donation_records.append((donor["donor_id"], donation_date, amount))
+
+donations = pd.DataFrame(donation_records, columns=["donor_id", "donation_date", "amount"])
+print(donations.head())
+
+# Save to CSV 
+donors.to_csv("../data/donors.csv", index=False)
+donations.to_csv("../data/donations.csv", index=False)
+print("CSV files saved to /data folder.")
