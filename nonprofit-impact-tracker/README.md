@@ -45,19 +45,19 @@ Below are the visualizations generated from the analysis:
 
 ### 1. Donation Trends 
 This chart displays overall donation trends over the years, showing the volume of donations for each year.
-![Donation Trends](images/donation_trends.png)
+![Donation Trends](Images/donation_trends.png)
 
 ### 2. Donor Signups by Year
 Tracks the number of new donor signups for each year, providing insights into donor acquistion trends.
-![Donor Signups by Year](images/donor_signups_by_year.png)
+![Donor Signups by Year](Images/donor_signups_by_year.png)
 
 ### 3. Retention by Join Year
 Visualizes the donor retention rate by the year they joined, showing trends in how well donors are retained over time. 
-![Retention by Join Year](images/retention_by_join_year.png)
+![Retention by Join Year](Images/retention_by_join_year.png)
 
 ### 4. Top 10 Donors
 Identifies the top 10 donors, offering insight into which individuals contribute the most to the organization.
-![Top 10 Donors](images/top_10_donor.png)
+![Top 10 Donors](Images/top_10_donor.png)
 
 ---
 
