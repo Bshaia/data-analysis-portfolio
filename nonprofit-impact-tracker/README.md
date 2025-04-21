@@ -36,7 +36,7 @@ pip install pandas matplotlib
 git clone https://github.com/Bshaia/data-analysis-portfolio.git
 ```
 ```bash
-cd nonprofit-impact-tracker 
+cd data-analysis-portfolio/nonprofit-impact-tracker
 ```
 2. Run Jupyter Notebook to generate the analysis and visualization plots. 
 
