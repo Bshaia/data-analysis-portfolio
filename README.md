@@ -11,7 +11,7 @@ My background is in computer science, and I’m focused on turning raw data into
 ### [Rent Trends EDA](./rent-trends-eda/)
 An in-depth exploratory analysis of post-COVID rent inflation across U.S. cities. This project uses time-series data to explore affordability and regional inequality in the housing market.
 
-### 🧾 [Nonprofit Impact Tracker](./nonprofit-impact-tracker/) (Work in Progress)
+### 🧾 [Nonprofit Impact Tracker](./nonprofit-impact-tracker/) 
 A SQL and KPI-driven analysis tool that helps nonprofit organizations track program outcomes, donor retention, and cost-per-impact across time.
 
 ### 🌍 [Corporate Greenwashing Detector](./greenwashing-detector/) (Coming Soon)
