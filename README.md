@@ -14,7 +14,7 @@ An in-depth exploratory analysis of post-COVID rent inflation across U.S. cities
 ### 🧾 [Nonprofit Impact Tracker](./nonprofit-impact-tracker/) 
 A SQL and KPI-driven analysis tool that helps nonprofit organizations track program outcomes, donor retention, and cost-per-impact across time.
 
-### 🌍 [Corporate Greenwashing Detector](./greenwashing-detector/) (Coming Soon)
+### 🌍 [Corporate Greenwashing Detector](./corporate-greenwashing/) (Work in Progress)
 This project compares corporate sustainability claims to environmental impact data using basic NLP, classification techniques, and source verification.
 
 ### 🧪 [Disinformation Risk Scoring](./disinformation-risk-scoring/) (Coming Soon)
