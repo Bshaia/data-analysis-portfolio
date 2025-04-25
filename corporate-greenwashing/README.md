@@ -42,10 +42,10 @@ This project investigates potential grade inflation in ESG (Enviromental, Social
 ## Key Visuals
 
 **Total ESG Score Distribution**  
-![total_score_distribution](visuals/total_score_distribution.png)
+![total_score_distribution](visuals/total_score_distributions.png)
 
 **Environmental Score Distribution**  
-![environment_score_distribution](visuals/environment_score_distribution.png)
+![environment_score_distribution](visuals/enviroment_score_distribution.png)
 
 **Social Score Distribution**  
 ![social_score_distribution](visuals/social_score_distribution.png)
@@ -63,7 +63,7 @@ This project investigates potential grade inflation in ESG (Enviromental, Social
 ![governance_grade_vs_score](visuals/governance_grade_vs_score.png)
 
 **ESG Clusters (PCA)**  
-![esg_cluster_pca](visuals/esg_cluster_pca.png)
+![esg_cluster_pca](visuals/esg_cluster_pca_png.png)
 
 **KMeans Elbow Plot**  
 ![elbow_kmeans_esg](visuals/elbow_kmeans_esg.png)
