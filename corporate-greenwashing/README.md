@@ -72,6 +72,7 @@ This project investigates potential grade inflation in ESG (Enviromental, Social
 ![env_gap_by_grade](visuals/env_gap_by_grade.png)
 
 
+
 ---
 
 ## Data Exports
