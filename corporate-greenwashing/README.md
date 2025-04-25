@@ -41,20 +41,36 @@ This project investigates potential grade inflation in ESG (Enviromental, Social
 
 ## Key Visuals
 
-- ESG Score Distributions
-  - `visuals/environment_score_distribution.png`  
-  - `visuals/social_score_distribution.png`  
-  - `visuals/governance_score_distribution.png`  
+**Total ESG Score Distribution**  
+![total_score_distribution](visuals/total_score_distribution.png)
 
-- Score vs Grade Comparison  
-  - `visuals/environment_grade_vs_score.png`  
-  - `visuals/social_grade_vs_score.png`  
-  - `visuals/governance_grade_vs_score.png`  
+**Environmental Score Distribution**  
+![environment_score_distribution](visuals/environment_score_distribution.png)
 
-- Discrepancy and Clustering  
-  - `visuals/esg_cluster_pca.png`  
-  - `visuals/elbow_kmeans_esg.png`  
-  - `visuals/env_gap_by_grade.png`  
+**Social Score Distribution**  
+![social_score_distribution](visuals/social_score_distribution.png)
+
+**Governance Score Distribution**  
+![governance_score_distribution](visuals/governance_score_distribution.png)
+
+**Environment Score by Grade**  
+![environment_grade_vs_score](visuals/environment_grade_vs_score.png)
+
+**Social Score by Grade**  
+![social_grade_vs_score](visuals/social_grade_vs_score.png)
+
+**Governance Score by Grade**  
+![governance_grade_vs_score](visuals/governance_grade_vs_score.png)
+
+**ESG Clusters (PCA)**  
+![esg_cluster_pca](visuals/esg_cluster_pca.png)
+
+**KMeans Elbow Plot**  
+![elbow_kmeans_esg](visuals/elbow_kmeans_esg.png)
+
+**Average Environment Score Gap by Grade**  
+![env_gap_by_grade](visuals/env_gap_by_grade.png)
+
 
 ---
 
