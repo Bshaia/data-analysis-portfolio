@@ -15,7 +15,7 @@ This project investigates potential grade inflation in ESG (Enviromental, Social
 
 ## Dataset
 
-- [Global ESG Data (Kaggle)](https://www.kaggle.com/datasets/shivamshukla/explore-esg-enviromental-social-and-governance)
+- [Global ESG Data (Kaggle)](https://www.kaggle.com/datasets/shivamshukla/explore-esg-environmental-social-and-governance)  
 - File used: 'esg_scores.csv' (located in 'data/raw/')
 
 ---
