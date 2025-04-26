@@ -1,13 +1,13 @@
-# ESG Score Discrepancy Analysis
+# Corporate Greenwashing Analysis
 
-This project investigates potential grade inflation in ESG (Enviromental, Social, Governance) - against their corresponding letter grades. Score-grade mismatches were analyzed, visualized, and exported for further inspection.
+This project investigates potential grade inflation in ESG (Environmental, Social, Governance) - against their corresponding letter grades. Score-grade mismatches were analyzed, visualized, and exported for further inspection.
 
 ---
 
 ## Objectives
 
 - Identify discrepancies between ESG scores and assigned grades
-- Detect potential greenwashing by flagging inflated grades
+
 - Group companies into ESG performance clusters
 - Compare clusters to public grades to assess rating alignment
 
@@ -15,7 +15,7 @@ This project investigates potential grade inflation in ESG (Enviromental, Social
 
 ## Dataset
 
-- [Global ESG Data (Kaggle)](https://www.kaggle.com/datasets/shivamshukla/explore-esg-environmental-social-and-governance)  
+- [Global ESG Scores Dataset on Kaggle](https://www.kaggle.com/datasets/atharvasoundankar/global-housing-market-analysis-2015-2024) 
 - File used: 'esg_scores.csv' (located in 'data/raw/')
 
 ---
@@ -92,9 +92,7 @@ This project investigates potential grade inflation in ESG (Enviromental, Social
 ---
 
 ## Author
-
 **Brett Shaia**  
-B.S. Computer Science  
-M.S. Data Analytics (in progress)  
-[GitHub](https://github.com/Bshaia)  
-[Email](mailto:brettshaia@gmail.com)
+Bachelor of Science in Computer Science  
+Master of Science in Data Analytics (In Progress)  
+[GitHub Profile](https://github.com/Bshaia) • [Email](mailto:brettshaia@gmail.com)
