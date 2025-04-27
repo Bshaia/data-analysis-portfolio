@@ -80,3 +80,11 @@ Identifies the top 10 donors, offering insight into which individuals contribute
 ### 4. Top Donors 
 - A small group of top donors accounts for a disproportionately large percentage of the total donations. This highlights the potential to further engage and recognize high-value donors.
 - Targeting these top donors for additional contribution or recognition could be a key strategy moving forward. 
+
+---
+
+## Author
+**Brett Shaia**  
+Bachelor of Science in Computer Science  
+Master of Science in Data Analytics (In Progress)  
+[GitHub Profile](https://github.com/Bshaia) • [Email](mailto:brettshaia@gmail.com)
