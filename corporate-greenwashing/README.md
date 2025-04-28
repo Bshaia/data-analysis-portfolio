@@ -2,7 +2,7 @@
 
 This project investigates potential grade inflation in ESG (Environmental, Social, Governance) - against their corresponding letter grades. Score-grade mismatches were analyzed, visualized, and exported for further inspection.
 
----
+
 
 ## Objectives
 
