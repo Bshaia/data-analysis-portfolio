@@ -77,5 +77,13 @@ jupyter notebook fake_news_classifier.ipynb
 
 **Brett Shaia**  
 **Bachelor of Science in Computer Science**  
+## Author
+
+**Brett Shaia**  
+Bachelor of Science in Computer Science  
+Master's in Data Analytics (In Progress)  
+Western Governors University  
+[GitHub](https://github.com/Bshaia) • [Email](mailto:brettshaia@gmail.com)
+
 Western Governors University, 2024  
 [GitHub](https://github.com/Bshaia) • [Email](mailto:brettshaia@gmail.com)
