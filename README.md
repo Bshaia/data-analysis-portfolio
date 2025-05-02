@@ -17,7 +17,7 @@ A SQL and KPI-driven analysis tool that helps nonprofit organizations track prog
 ### 🌍 [Corporate Greenwashing Detector](./corporate-greenwashing/) 
 This project compares corporate sustainability claims to environmental impact data using basic NLP, classification techniques, and source verification.
 
-### 🧪 [Disinformation Risk Scoring](./disinformation-risk-scoring/) (Coming Soon)
+### 🧪 [Disinformation Risk Scoring](./fake-news-classifier/)
 A machine learning project exploring how to assess the likelihood that a news article or post spreads misinformation using linguistic and metadata-based features.
 
 ### 💸 [Wage Transparency Simulator](./wage-transparency-simulator/) (Coming Soon)
