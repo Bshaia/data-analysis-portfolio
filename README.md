@@ -42,5 +42,6 @@ This portfolio is about more than checking boxes — it’s about learning to as
 ---
 
 Contact:
+#### Brett Shaia
 
 [Email](mailto:brettshaia@gmail.com)
